@@ -7,28 +7,20 @@
  */
 
 import React from 'react';
-import {View, Text, StyleSheet, StatusBar} from 'react-native';
+import {View, StatusBar, StyleSheet} from 'react-native';
+import ScheduleScreen from './screens/scheduleScreen';
 
 const App = () => {
   return (
     <View style={styles.container}>
       <StatusBar barStyle="dark-content" backgroundColor="white" />
-      <Text style={styles.text}>SIEMA</Text>
+      <ScheduleScreen />
     </View>
   );
 };
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    alignItems: 'center',
-    paddingHorizontal: 16,
-    backgroundColor: '#fff',
-  },
-  text: {
-    color: '#000',
-    fontSize: 20,
-  },
+  container: {flex: 1, backgroundColor: '#fff'},
 });
 
 export default App;

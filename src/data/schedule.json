@@ -1,0 +1,283 @@
+[
+  {
+    "id": "AiR",
+    "name": "Automatyka i Robotyka",
+    "semester": [
+      {
+        "groups": [
+          {
+            "id": "11A1",
+            "schedule": [
+              [
+                {
+                  "id": "mat",
+                  "subject": "Matematyka",
+                  "teacher": "Aleksandra Bednarz",
+                  "type": "ćwiczenia",
+                  "room": "A409",
+                  "startAt": "10:00",
+                  "endAt": "10:45",
+                  "week": ""
+                },
+                {
+                  "id": "mat",
+                  "subject": "Matematyka",
+                  "teacher": "Aleksandra Bednarz",
+                  "type": "ćwiczenia",
+                  "room": "A409",
+                  "startAt": "11:00",
+                  "endAt": "11:45",
+                  "week": ""
+                },
+                {
+                  "id": "mat",
+                  "subject": "Matematyka",
+                  "teacher": "Aleksandra Bednarz",
+                  "type": "ćwiczenia",
+                  "room": "A409",
+                  "startAt": "11:45",
+                  "endAt": "12:30",
+                  "week": ""
+                },
+                {
+                  "id": "piskw",
+                  "subject": "Programowanie i Systemy Komputerowego Wspomagania",
+                  "teacher": "R.Filipowska",
+                  "type": "wykład",
+                  "room": "A123",
+                  "startAt": "14:30",
+                  "endAt": "15:15",
+                  "week": ""
+                },
+                {
+                  "id": "piskw",
+                  "subject": "Programowanie i Systemy Komputerowego Wspomagania",
+                  "teacher": "R.Filipowska",
+                  "type": "wykład",
+                  "room": "A123",
+                  "startAt": "15:15",
+                  "endAt": "16:00",
+                  "week": ""
+                }
+              ],
+              [
+                {
+                  "id": "mat",
+                  "subject": "Matematyka",
+                  "teacher": "Aleksandra Bednarz",
+                  "type": "ćwiczenia",
+                  "room": "A409",
+                  "startAt": "10:00",
+                  "endAt": "10:45",
+                  "week": ""
+                },
+                {
+                  "id": "mat",
+                  "subject": "Matematyka",
+                  "teacher": "Aleksandra Bednarz",
+                  "type": "ćwiczenia",
+                  "room": "A409",
+                  "startAt": "11:00",
+                  "endAt": "11:45",
+                  "week": ""
+                },
+                {
+                  "id": "mat",
+                  "subject": "Matematyka",
+                  "teacher": "Aleksandra Bednarz",
+                  "type": "ćwiczenia",
+                  "room": "A409",
+                  "startAt": "11:45",
+                  "endAt": "12:30",
+                  "week": ""
+                },
+                {
+                  "id": "piskw",
+                  "subject": "Programowanie i Systemy Komputerowego Wspomagania",
+                  "teacher": "R.Filipowska",
+                  "type": "wykład",
+                  "room": "A123",
+                  "startAt": "14:30",
+                  "endAt": "15:15",
+                  "week": ""
+                },
+                {
+                  "id": "piskw",
+                  "subject": "Programowanie i Systemy Komputerowego Wspomagania",
+                  "teacher": "R.Filipowska",
+                  "type": "wykład",
+                  "room": "A123",
+                  "startAt": "15:15",
+                  "endAt": "16:00",
+                  "week": ""
+                }
+              ],
+              [
+                {
+                  "id": "mat",
+                  "subject": "Matematyka",
+                  "teacher": "Aleksandra Bednarz",
+                  "type": "ćwiczenia",
+                  "room": "A409",
+                  "startAt": "10:00",
+                  "endAt": "10:45",
+                  "week": ""
+                },
+                {
+                  "id": "mat",
+                  "subject": "Matematyka",
+                  "teacher": "Aleksandra Bednarz",
+                  "type": "ćwiczenia",
+                  "room": "A409",
+                  "startAt": "11:00",
+                  "endAt": "11:45",
+                  "week": ""
+                },
+                {
+                  "id": "mat",
+                  "subject": "Matematyka",
+                  "teacher": "Aleksandra Bednarz",
+                  "type": "ćwiczenia",
+                  "room": "A409",
+                  "startAt": "11:45",
+                  "endAt": "12:30",
+                  "week": ""
+                },
+                {
+                  "id": "piskw",
+                  "subject": "Programowanie i Systemy Komputerowego Wspomagania",
+                  "teacher": "R.Filipowska",
+                  "type": "wykład",
+                  "room": "A123",
+                  "startAt": "14:30",
+                  "endAt": "15:15",
+                  "week": ""
+                },
+                {
+                  "id": "piskw",
+                  "subject": "Programowanie i Systemy Komputerowego Wspomagania",
+                  "teacher": "R.Filipowska",
+                  "type": "wykład",
+                  "room": "A123",
+                  "startAt": "15:15",
+                  "endAt": "16:00",
+                  "week": ""
+                }
+              ],
+              [
+                {
+                  "id": "mat",
+                  "subject": "Matematyka",
+                  "teacher": "Aleksandra Bednarz",
+                  "type": "ćwiczenia",
+                  "room": "A409",
+                  "startAt": "10:00",
+                  "endAt": "10:45",
+                  "week": ""
+                },
+                {
+                  "id": "mat",
+                  "subject": "Matematyka",
+                  "teacher": "Aleksandra Bednarz",
+                  "type": "ćwiczenia",
+                  "room": "A409",
+                  "startAt": "11:00",
+                  "endAt": "11:45",
+                  "week": ""
+                },
+                {
+                  "id": "mat",
+                  "subject": "Matematyka",
+                  "teacher": "Aleksandra Bednarz",
+                  "type": "ćwiczenia",
+                  "room": "A409",
+                  "startAt": "11:45",
+                  "endAt": "12:30",
+                  "week": ""
+                },
+                {
+                  "id": "piskw",
+                  "subject": "Programowanie i Systemy Komputerowego Wspomagania",
+                  "teacher": "R.Filipowska",
+                  "type": "wykład",
+                  "room": "A123",
+                  "startAt": "14:30",
+                  "endAt": "15:15",
+                  "week": ""
+                },
+                {
+                  "id": "piskw",
+                  "subject": "Programowanie i Systemy Komputerowego Wspomagania",
+                  "teacher": "R.Filipowska",
+                  "type": "wykład",
+                  "room": "A123",
+                  "startAt": "15:15",
+                  "endAt": "16:00",
+                  "week": ""
+                }
+              ],
+              [
+                {
+                  "id": "mat",
+                  "subject": "Matematyka",
+                  "teacher": "Aleksandra Bednarz",
+                  "type": "ćwiczenia",
+                  "room": "A409",
+                  "startAt": "10:00",
+                  "endAt": "10:45",
+                  "week": ""
+                },
+                {
+                  "id": "mat",
+                  "subject": "Matematyka",
+                  "teacher": "Aleksandra Bednarz",
+                  "type": "ćwiczenia",
+                  "room": "A409",
+                  "startAt": "11:00",
+                  "endAt": "11:45",
+                  "week": ""
+                },
+                {
+                  "id": "mat",
+                  "subject": "Matematyka",
+                  "teacher": "Aleksandra Bednarz",
+                  "type": "ćwiczenia",
+                  "room": "A409",
+                  "startAt": "11:45",
+                  "endAt": "12:30",
+                  "week": ""
+                },
+                {
+                  "id": "piskw",
+                  "subject": "Programowanie i Systemy Komputerowego Wspomagania",
+                  "teacher": "R.Filipowska",
+                  "type": "wykład",
+                  "room": "A123",
+                  "startAt": "14:30",
+                  "endAt": "15:15",
+                  "week": ""
+                },
+                {
+                  "id": "piskw",
+                  "subject": "Programowanie i Systemy Komputerowego Wspomagania",
+                  "teacher": "R.Filipowska",
+                  "type": "wykład",
+                  "room": "A123",
+                  "startAt": "15:15",
+                  "endAt": "16:00",
+                  "week": ""
+                }
+              ]
+            ]
+          },
+          {
+            "id": "11A2"
+          },
+          {
+            "id": "11A3"
+          }
+        ]
+      }
+    ]
+  }
+]
