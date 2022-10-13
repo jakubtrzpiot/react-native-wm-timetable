@@ -7,20 +7,19 @@
  */
 
 import React from 'react';
-import {View, StatusBar, StyleSheet} from 'react-native';
-import ScheduleScreen from './screens/scheduleScreen';
+import {ContextProvider} from './Context';
+import Header from './components/Header';
+import ScheduleScreen from './screens/ScheduleScreen';
+import Navbar from './components/Navbar';
 
 const App = () => {
   return (
-    <View style={styles.container}>
-      <StatusBar barStyle="dark-content" backgroundColor="white" />
+    <ContextProvider>
+      <Header />
       <ScheduleScreen />
-    </View>
+      <Navbar />
+    </ContextProvider>
   );
 };
-
-const styles = StyleSheet.create({
-  container: {flex: 1, backgroundColor: '#fff'},
-});
 
 export default App;

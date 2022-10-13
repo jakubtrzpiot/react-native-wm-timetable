@@ -1,283 +1,289 @@
-[
-  {
-    "id": "AiR",
+{
+  "AiR": {
     "name": "Automatyka i Robotyka",
-    "semester": [
-      {
-        "groups": [
-          {
-            "id": "11A1",
-            "schedule": [
-              [
-                {
-                  "id": "mat",
-                  "subject": "Matematyka",
-                  "teacher": "Aleksandra Bednarz",
-                  "type": "ćwiczenia",
-                  "room": "A409",
-                  "startAt": "10:00",
-                  "endAt": "10:45",
-                  "week": ""
-                },
-                {
-                  "id": "mat",
-                  "subject": "Matematyka",
-                  "teacher": "Aleksandra Bednarz",
-                  "type": "ćwiczenia",
-                  "room": "A409",
-                  "startAt": "11:00",
-                  "endAt": "11:45",
-                  "week": ""
-                },
-                {
-                  "id": "mat",
-                  "subject": "Matematyka",
-                  "teacher": "Aleksandra Bednarz",
-                  "type": "ćwiczenia",
-                  "room": "A409",
-                  "startAt": "11:45",
-                  "endAt": "12:30",
-                  "week": ""
-                },
-                {
-                  "id": "piskw",
-                  "subject": "Programowanie i Systemy Komputerowego Wspomagania",
-                  "teacher": "R.Filipowska",
-                  "type": "wykład",
-                  "room": "A123",
-                  "startAt": "14:30",
-                  "endAt": "15:15",
-                  "week": ""
-                },
-                {
-                  "id": "piskw",
-                  "subject": "Programowanie i Systemy Komputerowego Wspomagania",
-                  "teacher": "R.Filipowska",
-                  "type": "wykład",
-                  "room": "A123",
-                  "startAt": "15:15",
-                  "endAt": "16:00",
-                  "week": ""
-                }
-              ],
-              [
-                {
-                  "id": "mat",
-                  "subject": "Matematyka",
-                  "teacher": "Aleksandra Bednarz",
-                  "type": "ćwiczenia",
-                  "room": "A409",
-                  "startAt": "10:00",
-                  "endAt": "10:45",
-                  "week": ""
-                },
-                {
-                  "id": "mat",
-                  "subject": "Matematyka",
-                  "teacher": "Aleksandra Bednarz",
-                  "type": "ćwiczenia",
-                  "room": "A409",
-                  "startAt": "11:00",
-                  "endAt": "11:45",
-                  "week": ""
-                },
-                {
-                  "id": "mat",
-                  "subject": "Matematyka",
-                  "teacher": "Aleksandra Bednarz",
-                  "type": "ćwiczenia",
-                  "room": "A409",
-                  "startAt": "11:45",
-                  "endAt": "12:30",
-                  "week": ""
-                },
-                {
-                  "id": "piskw",
-                  "subject": "Programowanie i Systemy Komputerowego Wspomagania",
-                  "teacher": "R.Filipowska",
-                  "type": "wykład",
-                  "room": "A123",
-                  "startAt": "14:30",
-                  "endAt": "15:15",
-                  "week": ""
-                },
-                {
-                  "id": "piskw",
-                  "subject": "Programowanie i Systemy Komputerowego Wspomagania",
-                  "teacher": "R.Filipowska",
-                  "type": "wykład",
-                  "room": "A123",
-                  "startAt": "15:15",
-                  "endAt": "16:00",
-                  "week": ""
-                }
-              ],
-              [
-                {
-                  "id": "mat",
-                  "subject": "Matematyka",
-                  "teacher": "Aleksandra Bednarz",
-                  "type": "ćwiczenia",
-                  "room": "A409",
-                  "startAt": "10:00",
-                  "endAt": "10:45",
-                  "week": ""
-                },
-                {
-                  "id": "mat",
-                  "subject": "Matematyka",
-                  "teacher": "Aleksandra Bednarz",
-                  "type": "ćwiczenia",
-                  "room": "A409",
-                  "startAt": "11:00",
-                  "endAt": "11:45",
-                  "week": ""
-                },
-                {
-                  "id": "mat",
-                  "subject": "Matematyka",
-                  "teacher": "Aleksandra Bednarz",
-                  "type": "ćwiczenia",
-                  "room": "A409",
-                  "startAt": "11:45",
-                  "endAt": "12:30",
-                  "week": ""
-                },
-                {
-                  "id": "piskw",
-                  "subject": "Programowanie i Systemy Komputerowego Wspomagania",
-                  "teacher": "R.Filipowska",
-                  "type": "wykład",
-                  "room": "A123",
-                  "startAt": "14:30",
-                  "endAt": "15:15",
-                  "week": ""
-                },
-                {
-                  "id": "piskw",
-                  "subject": "Programowanie i Systemy Komputerowego Wspomagania",
-                  "teacher": "R.Filipowska",
-                  "type": "wykład",
-                  "room": "A123",
-                  "startAt": "15:15",
-                  "endAt": "16:00",
-                  "week": ""
-                }
-              ],
-              [
-                {
-                  "id": "mat",
-                  "subject": "Matematyka",
-                  "teacher": "Aleksandra Bednarz",
-                  "type": "ćwiczenia",
-                  "room": "A409",
-                  "startAt": "10:00",
-                  "endAt": "10:45",
-                  "week": ""
-                },
-                {
-                  "id": "mat",
-                  "subject": "Matematyka",
-                  "teacher": "Aleksandra Bednarz",
-                  "type": "ćwiczenia",
-                  "room": "A409",
-                  "startAt": "11:00",
-                  "endAt": "11:45",
-                  "week": ""
-                },
-                {
-                  "id": "mat",
-                  "subject": "Matematyka",
-                  "teacher": "Aleksandra Bednarz",
-                  "type": "ćwiczenia",
-                  "room": "A409",
-                  "startAt": "11:45",
-                  "endAt": "12:30",
-                  "week": ""
-                },
-                {
-                  "id": "piskw",
-                  "subject": "Programowanie i Systemy Komputerowego Wspomagania",
-                  "teacher": "R.Filipowska",
-                  "type": "wykład",
-                  "room": "A123",
-                  "startAt": "14:30",
-                  "endAt": "15:15",
-                  "week": ""
-                },
-                {
-                  "id": "piskw",
-                  "subject": "Programowanie i Systemy Komputerowego Wspomagania",
-                  "teacher": "R.Filipowska",
-                  "type": "wykład",
-                  "room": "A123",
-                  "startAt": "15:15",
-                  "endAt": "16:00",
-                  "week": ""
-                }
-              ],
-              [
-                {
-                  "id": "mat",
-                  "subject": "Matematyka",
-                  "teacher": "Aleksandra Bednarz",
-                  "type": "ćwiczenia",
-                  "room": "A409",
-                  "startAt": "10:00",
-                  "endAt": "10:45",
-                  "week": ""
-                },
-                {
-                  "id": "mat",
-                  "subject": "Matematyka",
-                  "teacher": "Aleksandra Bednarz",
-                  "type": "ćwiczenia",
-                  "room": "A409",
-                  "startAt": "11:00",
-                  "endAt": "11:45",
-                  "week": ""
-                },
-                {
-                  "id": "mat",
-                  "subject": "Matematyka",
-                  "teacher": "Aleksandra Bednarz",
-                  "type": "ćwiczenia",
-                  "room": "A409",
-                  "startAt": "11:45",
-                  "endAt": "12:30",
-                  "week": ""
-                },
-                {
-                  "id": "piskw",
-                  "subject": "Programowanie i Systemy Komputerowego Wspomagania",
-                  "teacher": "R.Filipowska",
-                  "type": "wykład",
-                  "room": "A123",
-                  "startAt": "14:30",
-                  "endAt": "15:15",
-                  "week": ""
-                },
-                {
-                  "id": "piskw",
-                  "subject": "Programowanie i Systemy Komputerowego Wspomagania",
-                  "teacher": "R.Filipowska",
-                  "type": "wykład",
-                  "room": "A123",
-                  "startAt": "15:15",
-                  "endAt": "16:00",
-                  "week": ""
-                }
-              ]
-            ]
-          },
-          {
-            "id": "11A2"
-          },
-          {
-            "id": "11A3"
-          }
-        ]
-      }
+    "A3": [
+      [
+        {
+          "nr": 4,
+          "subject": "Matematyka",
+          "teacher": "A. Bednarz",
+          "type": "c",
+          "room": "A409",
+          "week": ""
+        },
+        {
+          "nr": 5,
+          "subject": "Matematyka",
+          "teacher": "A. Bednarz",
+          "type": "c",
+          "room": "A409",
+          "week": ""
+        },
+        {
+          "nr": 6,
+          "subject": "Matematyka",
+          "teacher": "A. Bednarz",
+          "type": "c",
+          "room": "A409",
+          "week": ""
+        },
+        {
+          "nr": 9,
+          "subject": "Programowanie i SKW",
+          "teacher": "R. Filipowska",
+          "type": "w",
+          "room": "A123",
+          "week": ""
+        },
+        {
+          "nr": 10,
+          "subject": "Programowanie i SKW",
+          "teacher": "R. Filipowska",
+          "type": "w",
+          "room": "A123",
+          "week": ""
+        }
+      ],
+      [
+        {
+          "nr": 1,
+          "subject": "Fizyka",
+          "teacher": "",
+          "type": "w",
+          "room": "WS03",
+          "week": "p"
+        },
+        {
+          "nr": 2,
+          "subject": "Fizyka",
+          "teacher": "",
+          "type": "w",
+          "room": "WS03",
+          "week": "p"
+        },
+        {
+          "nr": 3,
+          "subject": "Mechanika ogólna",
+          "teacher": "",
+          "type": "w",
+          "room": "WS02",
+          "week": "p"
+        },
+        {
+          "nr": 4,
+          "subject": "Mechanika ogólna",
+          "teacher": "",
+          "type": "w",
+          "room": "WS02",
+          "week": "p"
+        },
+        {
+          "nr": 5,
+          "subject": "Programowanie i SKW",
+          "teacher": "R. Filipowska",
+          "type": "w",
+          "room": "G18",
+          "week": "n"
+        },
+        {
+          "nr": 6,
+          "subject": "Programowanie i SKW",
+          "teacher": "R. Filipowska",
+          "type": "w",
+          "room": "G18",
+          "week": "n"
+        },
+        {
+          "nr": 7,
+          "subject": "Mechanika ogólna",
+          "teacher": "",
+          "type": "c",
+          "room": "A631a",
+          "week": ""
+        },
+        {
+          "nr": 8,
+          "subject": "Mechanika ogólna",
+          "teacher": "",
+          "type": "c",
+          "room": "A631a",
+          "week": ""
+        }
+      ],
+      [
+        {
+          "nr": 5,
+          "subject": "Język angielski",
+          "teacher": "",
+          "type": "lt",
+          "room": "Teams",
+          "week": ""
+        },
+        {
+          "nr": 6,
+          "subject": "Język angielski",
+          "teacher": "",
+          "type": "lt",
+          "room": "Teams",
+          "week": ""
+        },
+        {
+          "nr": 12,
+          "subject": "Matematyka",
+          "teacher": "",
+          "type": "w",
+          "room": "Teams",
+          "week": "p"
+        },
+        {
+          "nr": 13,
+          "subject": "Matematyka",
+          "teacher": "",
+          "type": "w",
+          "room": "Teams",
+          "week": "p"
+        },
+        {
+          "nr": 14,
+          "subject": "Nauka o materiałach",
+          "teacher": "",
+          "type": "w",
+          "room": "WS01",
+          "week": "n"
+        },
+        {
+          "nr": 15,
+          "subject": "Nauka o materiałach",
+          "teacher": "",
+          "type": "w",
+          "room": "WS01",
+          "week": "n"
+        }
+      ],
+      [
+        {
+          "nr": 3,
+          "subject": "Wspomaganie decyzji",
+          "teacher": "K. Krupa",
+          "type": "p",
+          "room": "A302",
+          "week": ""
+        },
+        {
+          "nr": 4,
+          "subject": "Wspomaganie decyzji",
+          "teacher": "K. Krupa",
+          "type": "p",
+          "room": "A302",
+          "week": ""
+        },
+        {
+          "nr": 6,
+          "subject": "WF",
+          "teacher": "",
+          "type": "c",
+          "room": "Hala",
+          "week": ""
+        },
+        {
+          "nr": 7,
+          "subject": "WF",
+          "teacher": "",
+          "type": "c",
+          "room": "Hala",
+          "week": ""
+        },
+        {
+          "nr": 10,
+          "subject": "Dokumentacja techniczna",
+          "teacher": "M. Pałac",
+          "type": "p",
+          "room": "A227",
+          "week": ""
+        },
+        {
+          "nr": 11,
+          "subject": "Dokumentacja techniczna",
+          "teacher": "M. Pałac",
+          "type": "p",
+          "room": "A227",
+          "week": ""
+        },
+        {
+          "nr": 12,
+          "subject": "Dokumentacja techniczna",
+          "teacher": "M. Pałac",
+          "type": "p",
+          "room": "A227",
+          "week": ""
+        },
+        {
+          "nr": 13,
+          "subject": "Programowanie i SKW",
+          "teacher": "R. Filipowska",
+          "type": "p",
+          "room": "G117",
+          "week": ""
+        },
+        {
+          "nr": 14,
+          "subject": "Programowanie i SKW",
+          "teacher": "R. Filipowska",
+          "type": "p",
+          "room": "G117",
+          "week": ""
+        },
+        {
+          "nr": 15,
+          "subject": "Programowanie i SKW",
+          "teacher": "R. Filipowska",
+          "type": "p",
+          "room": "G117",
+          "week": ""
+        }
+      ],
+      [
+        {
+          "nr": 1,
+          "subject": "Wspomaganie decyzji",
+          "teacher": "K. Krupa",
+          "type": "w",
+          "room": "A124",
+          "week": ""
+        },
+        {
+          "nr": 2,
+          "subject": "Wspomaganie decyzji",
+          "teacher": "K. Krupa",
+          "type": "w",
+          "room": "A124",
+          "week": ""
+        },
+        {
+          "nr": 11,
+          "subject": "Szkolenie świadomościowe",
+          "teacher": "B. Romek",
+          "type": "sz",
+          "room": "Zoom",
+          "week": "p"
+        },
+        {
+          "nr": 12,
+          "subject": "Szkolenie świadomościowe",
+          "teacher": "B. Romek",
+          "type": "sz",
+          "room": "Zoom",
+          "week": "p"
+        },
+        {
+          "nr": 13,
+          "subject": "Szkolenie świadomościowe",
+          "teacher": "B. Romek",
+          "type": "sz",
+          "room": "Zoom",
+          "week": "p"
+        }
+      ]
     ]
   }
-]
+}
