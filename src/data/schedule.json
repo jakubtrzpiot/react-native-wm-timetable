@@ -1,5 +1,5 @@
 {
-  "AiR": {
+  "A": {
     "name": "Automatyka i Robotyka",
     "A3": [
       [
@@ -8,40 +8,35 @@
           "subject": "Matematyka",
           "teacher": "A. Bednarz",
           "type": "c",
-          "room": "A409",
-          "week": ""
+          "room": "A409"
         },
         {
           "nr": 5,
           "subject": "Matematyka",
           "teacher": "A. Bednarz",
           "type": "c",
-          "room": "A409",
-          "week": ""
+          "room": "A409"
         },
         {
           "nr": 6,
           "subject": "Matematyka",
           "teacher": "A. Bednarz",
           "type": "c",
-          "room": "A409",
-          "week": ""
+          "room": "A409"
         },
         {
           "nr": 9,
           "subject": "Programowanie i SKW",
           "teacher": "R. Filipowska",
           "type": "w",
-          "room": "A123",
-          "week": ""
+          "room": "A123"
         },
         {
           "nr": 10,
           "subject": "Programowanie i SKW",
           "teacher": "R. Filipowska",
           "type": "w",
-          "room": "A123",
-          "week": ""
+          "room": "A123"
         }
       ],
       [
@@ -98,16 +93,14 @@
           "subject": "Mechanika ogólna",
           "teacher": "",
           "type": "c",
-          "room": "A631a",
-          "week": ""
+          "room": "A631a"
         },
         {
           "nr": 8,
           "subject": "Mechanika ogólna",
           "teacher": "",
           "type": "c",
-          "room": "A631a",
-          "week": ""
+          "room": "A631a"
         }
       ],
       [
@@ -116,16 +109,14 @@
           "subject": "Język angielski",
           "teacher": "",
           "type": "lt",
-          "room": "Teams",
-          "week": ""
+          "room": "Teams"
         },
         {
           "nr": 6,
           "subject": "Język angielski",
           "teacher": "",
           "type": "lt",
-          "room": "Teams",
-          "week": ""
+          "room": "Teams"
         },
         {
           "nr": 12,
@@ -145,7 +136,7 @@
         },
         {
           "nr": 14,
-          "subject": "Nauka o materiałach",
+          "subject": "Podstawy nauki o materiałach",
           "teacher": "",
           "type": "w",
           "room": "WS01",
@@ -153,7 +144,7 @@
         },
         {
           "nr": 15,
-          "subject": "Nauka o materiałach",
+          "subject": "Podstawy nauki o materiałach",
           "teacher": "",
           "type": "w",
           "room": "WS01",
@@ -166,80 +157,70 @@
           "subject": "Wspomaganie decyzji",
           "teacher": "K. Krupa",
           "type": "p",
-          "room": "A302",
-          "week": ""
+          "room": "A302"
         },
         {
           "nr": 4,
           "subject": "Wspomaganie decyzji",
           "teacher": "K. Krupa",
           "type": "p",
-          "room": "A302",
-          "week": ""
+          "room": "A302"
         },
         {
           "nr": 6,
           "subject": "WF",
           "teacher": "",
           "type": "c",
-          "room": "Hala",
-          "week": ""
+          "room": "Hala"
         },
         {
           "nr": 7,
           "subject": "WF",
           "teacher": "",
           "type": "c",
-          "room": "Hala",
-          "week": ""
+          "room": "Hala"
         },
         {
           "nr": 10,
           "subject": "Dokumentacja techniczna",
           "teacher": "M. Pałac",
           "type": "p",
-          "room": "A227",
-          "week": ""
+          "room": "A227"
         },
         {
           "nr": 11,
           "subject": "Dokumentacja techniczna",
           "teacher": "M. Pałac",
           "type": "p",
-          "room": "A227",
-          "week": ""
+          "room": "A227"
         },
         {
           "nr": 12,
           "subject": "Dokumentacja techniczna",
           "teacher": "M. Pałac",
           "type": "p",
-          "room": "A227",
-          "week": ""
+          "room": "A227"
         },
         {
           "nr": 13,
           "subject": "Programowanie i SKW",
           "teacher": "R. Filipowska",
           "type": "p",
-          "room": "G117",
-          "week": ""
+          "room": "G117"
         },
         {
           "nr": 14,
           "subject": "Programowanie i SKW",
           "teacher": "R. Filipowska",
           "type": "p",
-          "room": "G117",
-          "week": ""
+          "room": "G117"
         },
         {
           "nr": 15,
           "subject": "Programowanie i SKW",
           "teacher": "R. Filipowska",
           "type": "p",
-          "room": "G117",
-          "week": ""
+          "room": "G117"
         }
       ],
       [
@@ -248,40 +229,533 @@
           "subject": "Wspomaganie decyzji",
           "teacher": "K. Krupa",
           "type": "w",
-          "room": "A124",
-          "week": ""
+          "room": "A124"
         },
         {
           "nr": 2,
           "subject": "Wspomaganie decyzji",
           "teacher": "K. Krupa",
           "type": "w",
-          "room": "A124",
-          "week": ""
+          "room": "A124"
+        }
+      ]
+    ]
+  },
+  "K": {
+    "K2": [
+      [
+        {
+          "nr": 5,
+          "subject": "Język angielski",
+          "teacher": "Marcin Mały",
+          "type": "lt",
+          "room": "Zoom"
         },
         {
-          "nr": 11,
-          "subject": "Szkolenie świadomościowe",
-          "teacher": "B. Romek",
-          "type": "sz",
+          "nr": 6,
+          "subject": "Język angielski",
+          "teacher": "Marcin Mały",
+          "type": "lt",
+          "room": "Zoom"
+        },
+        {
+          "nr": 7,
+          "subject": "Język angielski",
+          "teacher": "Marcin Mały",
+          "type": "lt",
+          "room": "Zoom"
+        },
+        {
+          "nr": 8,
+          "subject": "Język angielski",
+          "teacher": "Marcin Mały",
+          "type": "lt",
+          "room": "Zoom"
+        },
+        {
+          "nr": 9,
+          "subject": "Techniki pomiarowe",
+          "teacher": "",
+          "type": "w",
+          "room": "Zoom",
+          "week": "n"
+        },
+        {
+          "nr": 10,
+          "subject": "Techniki pomiarowe",
+          "teacher": "",
+          "type": "w",
+          "room": "Zoom",
+          "week": "n"
+        },
+        {
+          "nr": 9,
+          "subject": "Ekonomika przedsiębiorstw",
+          "teacher": "",
+          "type": "w",
           "room": "Zoom",
           "week": "p"
         },
         {
+          "nr": 10,
+          "subject": "Ekonomika przedsiębiorstw",
+          "teacher": "",
+          "type": "w",
+          "room": "Zoom",
+          "week": "p"
+        },
+        {
+          "nr": 11,
+          "subject": "Ekonomika przedsiębiorstw",
+          "teacher": "",
+          "type": "w",
+          "room": "Zoom",
+          "week": "p"
+        }
+      ],
+      [
+        {
+          "nr": 1,
+          "subject": "Algorytmy i struktury danych",
+          "teacher": "Andrzej Skowronek",
+          "type": "k",
+          "room": "G120"
+        },
+        {
+          "nr": 2,
+          "subject": "Algorytmy i struktury danych",
+          "teacher": "Andrzej Skowronek",
+          "type": "k",
+          "room": "G120"
+        },
+        {
+          "nr": 3,
+          "subject": "Ekonomika przedsiębiorstw",
+          "teacher": "E. Malec",
+          "type": "c",
+          "room": "A336",
+          "week": "p"
+        },
+        {
+          "nr": 4,
+          "subject": "Ekonomika przedsiębiorstw",
+          "teacher": "E. Malec",
+          "type": "c",
+          "room": "A336",
+          "week": "p"
+        },
+        {
+          "nr": 5,
+          "subject": "Ekonomika przedsiębiorstw",
+          "teacher": "E. Malec",
+          "type": "c",
+          "room": "A336",
+          "week": "p"
+        },
+        {
+          "nr": 8,
+          "subject": "WF",
+          "teacher": "",
+          "type": "c",
+          "room": "Hala"
+        },
+        {
+          "nr": 9,
+          "subject": "WF",
+          "teacher": "",
+          "type": "c",
+          "room": "Hala"
+        },
+        {
+          "nr": 10,
+          "subject": "Techniki pomiarowe",
+          "teacher": "K. Stroński",
+          "type": "l",
+          "room": "W6a",
+
+          "group": "l4"
+        },
+        {
+          "nr": 11,
+          "subject": "Techniki pomiarowe",
+          "teacher": "K. Stroński",
+          "type": "l",
+          "room": "W6a",
+
+          "group": "l4"
+        },
+        {
           "nr": 12,
-          "subject": "Szkolenie świadomościowe",
-          "teacher": "B. Romek",
-          "type": "sz",
+          "subject": "Techniki pomiarowe",
+          "teacher": "K. Stroński",
+          "type": "l",
+          "room": "W6a",
+
+          "group": "l4"
+        },
+        {
+          "nr": 13,
+          "subject": "Techniki pomiarowe",
+          "teacher": "",
+          "type": "l",
+          "room": "W6a",
+
+          "group": "l5"
+        },
+        {
+          "nr": 14,
+          "subject": "Techniki pomiarowe",
+          "teacher": "",
+          "type": "l",
+          "room": "W6a",
+
+          "group": "l5"
+        },
+        {
+          "nr": 15,
+          "subject": "Techniki pomiarowe",
+          "teacher": "",
+          "type": "l",
+          "room": "W6a",
+
+          "group": "l5"
+        }
+      ],
+      [
+        {
+          "nr": 2,
+          "subject": "Techniki pomiarowe",
+          "teacher": "",
+          "type": "l",
+          "room": "W6a",
+
+          "group": "l3"
+        },
+        {
+          "nr": 3,
+          "subject": "Techniki pomiarowe",
+          "teacher": "",
+          "type": "l",
+          "room": "W6a",
+
+          "group": "l3"
+        },
+        {
+          "nr": 4,
+          "subject": "Techniki pomiarowe",
+          "teacher": "",
+          "type": "l",
+          "room": "W6a",
+
+          "group": "l3"
+        },
+        {
+          "nr": 8,
+          "subject": "Analiza matematyczna",
+          "teacher": "",
+          "type": "w",
+          "room": "Zoom"
+        },
+        {
+          "nr": 9,
+          "subject": "Analiza matematyczna",
+          "teacher": "",
+          "type": "w",
+          "room": "Zoom"
+        },
+        {
+          "nr": 10,
+          "subject": "Podstawy nauki o materiałach",
+          "teacher": "",
+          "type": "w",
+          "room": "Zoom"
+        },
+        {
+          "nr": 11,
+          "subject": "Podstawy nauki o materiałach",
+          "teacher": "",
+          "type": "w",
+          "room": "Zoom"
+        },
+        {
+          "nr": 12,
+          "subject": "Algebra liniowa i GA",
+          "teacher": "",
+          "type": "w",
           "room": "Zoom",
           "week": "p"
         },
         {
           "nr": 13,
-          "subject": "Szkolenie świadomościowe",
-          "teacher": "B. Romek",
-          "type": "sz",
+          "subject": "Algebra liniowa i GA",
+          "teacher": "",
+          "type": "w",
           "room": "Zoom",
           "week": "p"
+        }
+      ],
+      [
+        {
+          "nr": 5,
+          "subject": "Podstawy nauki o materiałach",
+          "teacher": "",
+          "type": "l",
+          "room": "D208",
+          "week": "n",
+          "group": "l5"
+        },
+        {
+          "nr": 6,
+          "subject": "Podstawy nauki o materiałach",
+          "teacher": "",
+          "type": "l",
+          "room": "D208",
+          "week": "n",
+          "group": "l5"
+        },
+        {
+          "nr": 7,
+          "subject": "Podstawy nauki o materiałach",
+          "teacher": "",
+          "type": "l",
+          "room": "D208",
+          "week": "n",
+          "group": "l5"
+        },
+        {
+          "nr": 5,
+          "subject": "Podstawy nauki o materiałach",
+          "teacher": "",
+          "type": "l",
+          "room": "E03",
+          "week": "p",
+          "group": "l4"
+        },
+        {
+          "nr": 6,
+          "subject": "Podstawy nauki o materiałach",
+          "teacher": "",
+          "type": "l",
+          "room": "E03",
+          "week": "p",
+          "group": "l4"
+        },
+        {
+          "nr": 7,
+          "subject": "Podstawy nauki o materiałach",
+          "teacher": "",
+          "type": "l",
+          "room": "E03",
+          "week": "p",
+          "group": "l4"
+        },
+        {
+          "nr": 5,
+          "subject": "Podstawy nauki o materiałach",
+          "teacher": "",
+          "type": "l",
+          "room": "E06",
+          "week": "p",
+          "group": "l3"
+        },
+        {
+          "nr": 6,
+          "subject": "Podstawy nauki o materiałach",
+          "teacher": "",
+          "type": "l",
+          "room": "E06",
+          "week": "p",
+          "group": "l3"
+        },
+        {
+          "nr": 7,
+          "subject": "Podstawy nauki o materiałach",
+          "teacher": "",
+          "type": "l",
+          "room": "E06",
+          "week": "p",
+          "group": "l3"
+        },
+        {
+          "nr": 5,
+          "subject": "Elektrotechnika i elektronika",
+          "teacher": "",
+          "type": "l",
+          "room": "G33",
+          "week": "p",
+          "group": "l5"
+        },
+        {
+          "nr": 6,
+          "subject": "Elektrotechnika i elektronika",
+          "teacher": "",
+          "type": "l",
+          "room": "G33",
+          "week": "p",
+          "group": "l5"
+        },
+        {
+          "nr": 5,
+          "subject": "Elektrotechnika i elektronika",
+          "teacher": "",
+          "type": "l",
+          "room": "G33",
+          "week": "n",
+          "group": "l3"
+        },
+        {
+          "nr": 6,
+          "subject": "Elektrotechnika i elektronika",
+          "teacher": "",
+          "type": "l",
+          "room": "G33",
+          "week": "n",
+          "group": "l3"
+        },
+        {
+          "nr": 7,
+          "subject": "Elektrotechnika i elektronika",
+          "teacher": "",
+          "type": "l",
+          "room": "G33",
+          "week": "n",
+          "group": "l4"
+        },
+        {
+          "nr": 8,
+          "subject": "Elektrotechnika i elektronika",
+          "teacher": "",
+          "type": "l",
+          "room": "G33",
+          "week": "n",
+          "group": "l4"
+        },
+        {
+          "nr": 9,
+          "subject": "Informatyka i ekologia",
+          "teacher": "",
+          "type": "s",
+          "room": "G121",
+          "week": "n"
+        },
+        {
+          "nr": 10,
+          "subject": "Informatyka i ekologia",
+          "teacher": "",
+          "type": "s",
+          "room": "G121",
+          "week": "n"
+        },
+        {
+          "nr": 11,
+          "subject": "Informatyka i ekologia",
+          "teacher": "",
+          "type": "s",
+          "room": "G121",
+          "week": "n"
+        },
+        {
+          "nr": 12,
+          "subject": "Analiza matematyczna",
+          "teacher": "",
+          "type": "c",
+          "room": "A331"
+        },
+        {
+          "nr": 13,
+          "subject": "Analiza matematyczna",
+          "teacher": "",
+          "type": "c",
+          "room": "A331"
+        },
+        {
+          "nr": 14,
+          "subject": "Algebra liniowa i GA",
+          "teacher": "",
+          "type": "c",
+          "room": "A331"
+        }
+      ],
+      [
+        {
+          "nr": 1,
+          "subject": "Algorytmy i struktury danych",
+          "teacher": "",
+          "type": "w",
+          "room": "A123",
+          "week": "n"
+        },
+        {
+          "nr": 2,
+          "subject": "Algorytmy i struktury danych",
+          "teacher": "",
+          "type": "w",
+          "room": "A123",
+          "week": "n"
+        },
+        {
+          "nr": 1,
+          "subject": "Programowanie proceduralne",
+          "teacher": "",
+          "type": "w",
+          "room": "G18",
+          "week": "p"
+        },
+        {
+          "nr": 2,
+          "subject": "Programowanie proceduralne",
+          "teacher": "",
+          "type": "w",
+          "room": "G18",
+          "week": "p"
+        },
+        {
+          "nr": 3,
+          "subject": "Elektrotechnika i elektronika",
+          "teacher": "",
+          "type": "w",
+          "room": "A123",
+          "week": "p"
+        },
+        {
+          "nr": 4,
+          "subject": "Elektrotechnika i elektronika",
+          "teacher": "",
+          "type": "w",
+          "room": "A123",
+          "week": "p"
+        },
+        {
+          "nr": 7,
+          "subject": "Programowanie proceduralne",
+          "teacher": "",
+          "type": "k",
+          "room": "G120",
+          "group": "k4"
+        },
+        {
+          "nr": 8,
+          "subject": "Programowanie proceduralne",
+          "teacher": "",
+          "type": "k",
+          "room": "G120",
+          "group": "k4"
+        },
+        {
+          "nr": 9,
+          "subject": "Programowanie proceduralne",
+          "teacher": "",
+          "type": "k",
+          "room": "G120",
+          "group": "k3"
+        },
+        {
+          "nr": 10,
+          "subject": "Programowanie proceduralne",
+          "teacher": "",
+          "type": "k",
+          "room": "G120",
+          "group": "k3"
         }
       ]
     ]

@@ -1,14 +1,19 @@
 import {View, Text, Pressable} from 'react-native';
 import {useContext} from 'react';
 import {Context} from '../Context';
+import Icon from 'react-native-vector-icons/FontAwesome';
 
 const Navbar = () => {
   const {date, setDate, theme} = useContext(Context);
   const previousDay = () => {
-    setDate(new Date(date.getTime() - 24 * 60 * 60 * 1000));
+    if (new Date().getTime() - date.getTime() < 7 * 24 * 60 * 60 * 1000) {
+      setDate(new Date(date.getTime() - 24 * 60 * 60 * 1000));
+    }
   };
   const nextDay = () => {
-    setDate(new Date(date.getTime() + 24 * 60 * 60 * 1000));
+    if (date.getTime() - new Date().getTime() < 14 * 24 * 60 * 60 * 1000) {
+      setDate(new Date(date.getTime() + 24 * 60 * 60 * 1000));
+    }
   };
   backToToday = () => {
     setDate(new Date());
@@ -23,30 +28,30 @@ const Navbar = () => {
       <Pressable
         className="px-14 items-center justify-center"
         android_ripple={{
-          color: theme == 'light' ? '#8c1c6a' : '#212121',
-          radius: 96,
+          color: theme == 'light' ? '#991e72' : '#212121',
+          radius: 50,
         }}
         onPress={previousDay}>
-        <Text className="text-3xl text-[#e0e0e0] font-bold">{'<'}</Text>
+        {<Icon name="angle-left" size={28} color="#fff" />}
       </Pressable>
       <Pressable
         className="grow items-center justify-center"
         android_ripple={{
-          color: theme == 'light' ? '#8c1c6a' : '#212121',
-          radius: 100,
+          color: theme == 'light' ? '#991e72' : '#212121',
+          radius: 60,
         }}
         onPress={backToToday}>
-        <Text className="text-[#e0e0e0] font-bold">{`${day}/${month}/${year}`}</Text>
+        <Text className="text-[#e0e0e0] font-bold text-[15px]">{`${day}/${month}/${year}`}</Text>
       </Pressable>
 
       <Pressable
         className="px-14 items-center justify-center"
         android_ripple={{
-          color: theme == 'light' ? '#8c1c6a' : '#212121',
-          radius: 96,
+          color: theme == 'light' ? '#991e72' : '#212121',
+          radius: 50,
         }}
         onPress={nextDay}>
-        <Text className="text-3xl text-[#e0e0e0] font-bold">{'>'}</Text>
+        {<Icon name="angle-right" size={28} color="#fff" />}
       </Pressable>
     </View>
   );

@@ -1,10 +1,10 @@
 import React, {useContext} from 'react';
 import {Context} from '../Context';
-import {View, Text, Pressable, Dimensions} from 'react-native';
+import {View, Text, Pressable, useWindowDimensions} from 'react-native';
 
 const ScheduleTile = ({nr, subject, teacher, type, room, week}) => {
   const {theme} = useContext(Context);
-  const width = Dimensions.get('window').width;
+  const {width} = useWindowDimensions();
   nr -= 1;
   const timetable = [
     ['7:30', '8:15'],
@@ -31,6 +31,7 @@ const ScheduleTile = ({nr, subject, teacher, type, room, week}) => {
     case 'c':
       type = 'Ćwiczenia';
       break;
+    case 'k':
     case 'l':
       type = 'Laboratorium';
       break;
@@ -43,6 +44,9 @@ const ScheduleTile = ({nr, subject, teacher, type, room, week}) => {
     case 'sz':
       type = 'Szkolenie';
       break;
+    case 's':
+      type = 'Seminarium';
+      break;
     default:
       type = 'Nieznany';
   }
@@ -52,11 +56,11 @@ const ScheduleTile = ({nr, subject, teacher, type, room, week}) => {
         color: theme == 'light' ? '#e0e0e0' : '#212121',
         radius: width,
       }}
-      className="flex-row pr-4 h-[68px] border-t border-[#e0e0e0] dark:border-[#212121] items-center">
-      <Text className="text-3xl text-black dark:text-[#e0e0e0] w-[30px] text-center mx-4">
+      className="py-3 flex-row px-2 border-t border-[#e0e0e0] dark:border-[#212121] items-center">
+      <Text className="w-[5vh] text-3xl text-black dark:text-[#e0e0e0] text-center mr-1">
         {nr + 1}
       </Text>
-      <View className="w-[32px] mr-2 items-center">
+      <View className="items-center w-[5vh] mr-1">
         <Text className="text-[#757575] dark:text-[#bdbdbd] pb-1">
           {timetable[nr][0]}
         </Text>

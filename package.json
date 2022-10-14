@@ -14,7 +14,9 @@
     "react": "18.1.0",
     "react-native": "^0.70.2",
     "react-native-cli": "^2.0.1",
-    "react-native-swipe-gestures": "^1.0.5"
+    "react-native-element-dropdown": "^2.3.0",
+    "react-native-swipe-gestures": "^1.0.5",
+    "react-native-vector-icons": "^9.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",

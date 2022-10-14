@@ -1,11 +1,16 @@
-import {View, Text, Pressable} from 'react-native';
+import {View, Text} from 'react-native';
 import {useContext} from 'react';
 import {Context} from '../Context';
 
 const Header = () => {
   //make a drawer menu with user settings, pick a plan button and a theme toggle button
   const {date} = useContext(Context);
-  const week = Math.ceil(date.getDate() / 7);
+  //check if week is even or odd starting from monday
+  const week =
+    Math.floor(
+      (date.getTime() - new Date(2021, 8, 13).getTime()) /
+        (7 * 24 * 60 * 60 * 1000),
+    ) % 2;
   const isEven = week % 2 === 0 ? true : false;
   let day = date.getDay() === 0 ? 6 : date.getDay() - 1;
   switch (day) {
@@ -35,7 +40,7 @@ const Header = () => {
   return (
     <View className="pt-2 pb-4 px-4 flex-row justify-end items-center">
       <Text className="text-black dark:text-[#e0e0e0]">
-        Tydzień {isEven ? 'Parzysty' : 'Nieparzysty'}
+        {isEven ? 'Parzysty' : 'Nieparzysty'}
       </Text>
       <Text className="text-black dark:text-[#e0e0e0] text-lg absolute w-screen text-center font-bold">
         {day}
